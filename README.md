@@ -6,3 +6,4 @@ Minimal docker image containing bash, kubectl & gettext. nothing more, nothing l
 
 - Refactored image to produce lesser layers  
 - Added dumb-init
+- Upgraded version of kubectl to 1.17.8
